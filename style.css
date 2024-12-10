@@ -1,0 +1,36 @@
+
+#w3-secton{
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+    width: 50%;     
+}
+
+#contact {
+    justify-content: center;
+}
+
+.Contact:hover {
+    background-color: #ffffff;
+    transition: .4s ease;
+    border-radius: 5px;
+    transform: scale(1.2); 
+    padding: 10px; 
+}
+
+.About:hover {
+    background-color: #ffffff;
+    transition: .4s ease;
+    border-radius: 5px;
+    transform: scale(1.2); 
+    padding: 10px; 
+}
+
+.Activities:hover {
+    background-color: #ffffff;
+    transition: .4s ease;
+    border-radius: 5px;
+    transform: scale(1.2); 
+    padding: 10px; 
+}
+
